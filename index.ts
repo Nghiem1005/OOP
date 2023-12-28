@@ -7,3 +7,5 @@ duck.makeSound()
 const duck2: Duck = new Duck()
 
 const duck3: Duck = new Duck()
+
+const duck4: Duck = new Duck()
