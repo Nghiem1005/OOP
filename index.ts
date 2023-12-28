@@ -12,4 +12,5 @@ const duck4: Duck = new Duck()
 
 const duck5: Duck = new Duck()
 
+const duck7: Duck = new Duck()
 const duck6: Duck = new Duck()
