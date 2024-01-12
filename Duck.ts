@@ -8,7 +8,7 @@ export class Duck extends Animal{
         this.weight = weight || 0
     }
     makeSound(): void {
-        console.log(`${this.getSound} `);
+        console.log(`${this.getSound} oke `);
     }
     
 }
